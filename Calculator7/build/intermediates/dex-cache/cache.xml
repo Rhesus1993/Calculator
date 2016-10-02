@@ -3,147 +3,147 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_650dbacb5d30737fa2f597e9b875eac59d07d9e4\classes.dex" />
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9b4e10dbd4bf9499bb92c884b4e8ad48b63fe380\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_971477743e05bbf9ea12d35f49d748b2b50fd532\classes.dex" />
+        sha1="3ac2b0178fc9d16452f3352cb7f1414ea51af98b">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ca95bad1486f479bc369f5ef5a41added22ffc7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a9430107088799af8d23773dad78ecefb7f061b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_97fe8ab09555fcc992230b264227f5a4c25b58d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3a4d63b62d2eeab7f5e0baf667539ac5139979d0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e9ec06216223f07ed0429e1edc1380bacbf8b663">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d672921b70a22bb2bddf3cff3702ef288904684\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_de83c777d3c3d95121661bf3f7bdcc9fc2228d2b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5e05fcf88fb31a6d6142da683b43049558015706\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0701d517d380e048bed75f9a5b0a92fb4bbc3605\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_8484f7631c963533aff5325951608482bc58b362\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b11c229be8de172f86a8cc938cbe2a2ea768db55">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_32c66ee83e61952ab32210bf38bb57d0cf4b4412\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_1e94b820c9eda18fd848e820de72599eec69df71\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7812b47447adf5fb43be534e4cbc56f2cfb878df\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ded2a13d464b05d4dbec91741fa610c3a83fb65a\classes.dex" />
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_67437931203a22a7b8edd1db455fe53cd69ff82a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1e034094617cc9205703e87a3cc60bfbcbefd386\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ea3b9aa7f58493d7cb8925b6ef6a01a52d5bbb93\classes.dex" />
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e5c24c93b4a9bd9f6634054d367cfc739292f7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="32b5bb5cea5573e096f2c1afd1a18a269e8f1f17">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0bc6a54d6eec59eab682c47d4a832ed71109bfeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5d813722a3b169e1925fd0398ee5d7c01d3d4e3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_96e5dfc169ea31705908ce31d5c17bdb6eeb56cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ee5f76084dff8527e87725b67ee6ec75b838a163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f0c71612d7f1396374f6dce26fb184ab93a74d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_9256d9792054c24fdcff976fcf8dd0c547c9250b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3aae0059f99590f35d4630cac6759cdab88e2371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_99b4dd68402961863fc9ce99dfbe74cb9e9f708f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bc136773b57091b080c3fd8a225bb38cc5acb321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b4ad2db309bd811415bc002fc1767df8512e69cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8dd6834a7907340dd0e4956a4d476cdb74c99070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_11d5c02559cd2bca0a6cb37dde78b72e59af04c3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -152,7 +152,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\drwil\Documents\GitHub\AndroidCalculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3ac0bb00061bb2bce58e6e9b6072ee4e6aee2ddb\classes.dex" />
+        <dex dex="C:\Users\drwil\Documents\GitHub\Calculator\Calculator7\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3ac0bb00061bb2bce58e6e9b6072ee4e6aee2ddb\classes.dex" />
     </item>
 
 </items>

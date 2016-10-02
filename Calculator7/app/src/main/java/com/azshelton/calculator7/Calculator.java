@@ -18,6 +18,7 @@ public class Calculator extends AppCompatActivity {
     private String display = "";
     private String currentOperator = "";
     private String result = "";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -30,6 +31,7 @@ public class Calculator extends AppCompatActivity {
         _screen.setText(display);
     }
 
+    //get the number from the user
     public void onClickNumber(View v){
         if(result != ""){
             clear();
@@ -89,7 +91,7 @@ public class Calculator extends AppCompatActivity {
         clear();
         updateScreen();
     }
-
+    //runs the operations on the input
     private double operate(String a, String b, String op){
         switch (op){
             case "+": return Double.valueOf(a) + Double.valueOf(b);
@@ -103,7 +105,7 @@ public class Calculator extends AppCompatActivity {
             default: return -1;
         }
     }
-
+    //displays the results
     private boolean getResult(){
         if(currentOperator == "") return false;
         String[] operation = display.split(Pattern.quote(currentOperator));
@@ -111,7 +113,7 @@ public class Calculator extends AppCompatActivity {
         result = String.valueOf(operate(operation[0], operation[1], currentOperator));
         return true;
     }
-
+    //takes input from the user that they wish to get results
     public void onClickEqual(View v){
         if(display == "") return;
         if(!getResult()) return;

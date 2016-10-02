@@ -13,7 +13,7 @@
 
     <TextView
         android:layout_width="fill_parent"
-        android:layout_height="207dp"
+        android:layout_height="fill_parent"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="0"
         android:id="@+id/textView"
@@ -63,7 +63,8 @@
         android:textSize="30sp"
         android:textColor="#ffffff"
         android:layout_alignTop="@+id/btnDec"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"/>
 
     <Button
         android:text="="
@@ -76,18 +77,6 @@
         android:onClick="onClickEqual"
         android:layout_alignParentBottom="true"
         android:layout_toEndOf="@+id/btnClear" />
-
-    <Button
-        android:text="÷"
-        android:layout_width="100dp"
-        android:layout_height="60dp"
-        android:id="@+id/btnDiv"
-        android:background="#4d4d4d"
-        android:textSize="30sp"
-        android:textColor="#ffffff"
-        android:onClick="onClickOperator"
-        android:layout_above="@+id/btnNeg"
-        android:layout_toEndOf="@+id/btnNeg" />
 
     <Button
         android:text="*"
@@ -106,6 +95,18 @@
         android:layout_width="100dp"
         android:layout_height="60dp"
         android:id="@+id/btnMinus"
+        android:background="#4d4d4d"
+        android:onClick="onClickOperator"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/btnMult"
+        android:layout_alignStart="@+id/btnMult" />
+
+    <Button
+        android:text="-"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:id="@+id/button"
         android:background="#4d4d4d"
         android:onClick="onClickOperator"
         android:textSize="30sp"
@@ -135,7 +136,8 @@
         android:textSize="30sp"
         android:textColor="#ffffff"
         android:layout_above="@+id/btn0"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"/>
 
     <Button
         android:text="2"
@@ -183,7 +185,8 @@
         android:textColor="#ffffff"
         android:background="#4d4d4d"
         android:layout_above="@+id/btn1"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"/>
 
     <Button
         android:text="9"
@@ -220,6 +223,7 @@
         android:textSize="30sp"
         android:layout_alignBottom="@+id/btn8"
         android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
         android:layout_below="@+id/textView" />
 
     <Button
@@ -232,7 +236,20 @@
         android:textSize="30sp"
         android:onClick="onClickClear"
         android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="÷"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:id="@+id/btnDiv"
+        android:background="#4d4d4d"
+        android:textSize="30sp"
+        android:textColor="#ffffff"
+        android:onClick="onClickOperator"
+        android:layout_above="@+id/btnNeg"
+        android:layout_toEndOf="@+id/btn3" />
 
     <Button
         android:text="+"
@@ -243,9 +260,8 @@
         android:onClick="onClickOperator"
         android:textSize="30sp"
         android:textColor="#ffffff"
-        android:layout_alignBottom="@+id/btnNeg"
-        android:layout_toEndOf="@+id/btnNeg"
-        android:layout_below="@+id/btnDiv" />
+        android:layout_below="@+id/btnDiv"
+        android:layout_toEndOf="@+id/btnNeg" />
 
 
 </RelativeLayout>
